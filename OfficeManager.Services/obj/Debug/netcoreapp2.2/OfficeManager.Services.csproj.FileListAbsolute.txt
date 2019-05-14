@@ -1,0 +1,14 @@
+C:\Users\simf1\source\repos\OfficeManagerSolution\OfficeManager.Services\bin\Debug\netcoreapp2.2\OfficeManager.Services.Models.dll
+C:\Users\simf1\source\repos\OfficeManagerSolution\OfficeManager.Services\obj\Debug\netcoreapp2.2\OfficeManager.Services.csproj.CoreCompileInputs.cache
+C:\Users\simf1\source\repos\OfficeManagerSolution\OfficeManager.Services\obj\Debug\netcoreapp2.2\OfficeManager.Services.AssemblyInfoInputs.cache
+C:\Users\simf1\source\repos\OfficeManagerSolution\OfficeManager.Services\obj\Debug\netcoreapp2.2\OfficeManager.Services.AssemblyInfo.cs
+C:\Users\simf1\source\repos\OfficeManagerSolution\OfficeManager.Services\bin\Debug\netcoreapp2.2\OfficeManager.DataAccess.Models.dll
+C:\Users\simf1\source\repos\OfficeManagerSolution\OfficeManager.Services\obj\Debug\netcoreapp2.2\OfficeManager.Services.csprojAssemblyReference.cache
+C:\Users\simf1\source\repos\OfficeManagerSolution\OfficeManager.Services\bin\Debug\netcoreapp2.2\OfficeManager.Services.deps.json
+C:\Users\simf1\source\repos\OfficeManagerSolution\OfficeManager.Services\bin\Debug\netcoreapp2.2\OfficeManager.Services.dll
+C:\Users\simf1\source\repos\OfficeManagerSolution\OfficeManager.Services\bin\Debug\netcoreapp2.2\OfficeManager.Services.pdb
+C:\Users\simf1\source\repos\OfficeManagerSolution\OfficeManager.Services\bin\Debug\netcoreapp2.2\OfficeManager.DataAccess.Models.pdb
+C:\Users\simf1\source\repos\OfficeManagerSolution\OfficeManager.Services\bin\Debug\netcoreapp2.2\OfficeManager.Services.Models.pdb
+C:\Users\simf1\source\repos\OfficeManagerSolution\OfficeManager.Services\obj\Debug\netcoreapp2.2\OfficeManager.Services.csproj.CopyComplete
+C:\Users\simf1\source\repos\OfficeManagerSolution\OfficeManager.Services\obj\Debug\netcoreapp2.2\OfficeManager.Services.dll
+C:\Users\simf1\source\repos\OfficeManagerSolution\OfficeManager.Services\obj\Debug\netcoreapp2.2\OfficeManager.Services.pdb

@@ -1,0 +1,12 @@
+C:\Users\simf1\source\repos\OfficeManagerSolution\OfficeManager.DataAccess\bin\Debug\netcoreapp2.2\OfficeManager.DataAccess.deps.json
+C:\Users\simf1\source\repos\OfficeManagerSolution\OfficeManager.DataAccess\bin\Debug\netcoreapp2.2\OfficeManager.DataAccess.dll
+C:\Users\simf1\source\repos\OfficeManagerSolution\OfficeManager.DataAccess\obj\Debug\netcoreapp2.2\OfficeManager.DataAccess.csprojAssemblyReference.cache
+C:\Users\simf1\source\repos\OfficeManagerSolution\OfficeManager.DataAccess\obj\Debug\netcoreapp2.2\OfficeManager.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\simf1\source\repos\OfficeManagerSolution\OfficeManager.DataAccess\obj\Debug\netcoreapp2.2\OfficeManager.DataAccess.AssemblyInfoInputs.cache
+C:\Users\simf1\source\repos\OfficeManagerSolution\OfficeManager.DataAccess\obj\Debug\netcoreapp2.2\OfficeManager.DataAccess.AssemblyInfo.cs
+C:\Users\simf1\source\repos\OfficeManagerSolution\OfficeManager.DataAccess\bin\Debug\netcoreapp2.2\OfficeManager.DataAccess.Models.dll
+C:\Users\simf1\source\repos\OfficeManagerSolution\OfficeManager.DataAccess\bin\Debug\netcoreapp2.2\OfficeManager.DataAccess.pdb
+C:\Users\simf1\source\repos\OfficeManagerSolution\OfficeManager.DataAccess\bin\Debug\netcoreapp2.2\OfficeManager.DataAccess.Models.pdb
+C:\Users\simf1\source\repos\OfficeManagerSolution\OfficeManager.DataAccess\obj\Debug\netcoreapp2.2\OfficeManager.DataAccess.csproj.CopyComplete
+C:\Users\simf1\source\repos\OfficeManagerSolution\OfficeManager.DataAccess\obj\Debug\netcoreapp2.2\OfficeManager.DataAccess.dll
+C:\Users\simf1\source\repos\OfficeManagerSolution\OfficeManager.DataAccess\obj\Debug\netcoreapp2.2\OfficeManager.DataAccess.pdb
